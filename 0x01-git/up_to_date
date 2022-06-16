@@ -1,1 +1,1 @@
-touch
+echo 'vi up_to_date' > up_to_date
